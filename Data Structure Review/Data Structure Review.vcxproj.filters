@@ -1,0 +1,165 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;c++;cppm;ixx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;h++;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Chapter 1">
+      <UniqueIdentifier>{6913d625-4e59-4424-a277-3847f47907a6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter 2">
+      <UniqueIdentifier>{bafdeb39-e557-40fb-8e48-e0b1e9e4eaed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter 3">
+      <UniqueIdentifier>{648e610d-f76f-4666-b6f4-6f675724cf49}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter 4">
+      <UniqueIdentifier>{8500980a-f058-4470-b0dd-07f42a374cfc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter 5">
+      <UniqueIdentifier>{67c5e875-168a-4fe9-8b27-beb79c6abaa4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter 6">
+      <UniqueIdentifier>{939380bd-c565-4913-b6c0-a7aefeb11a01}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter 7">
+      <UniqueIdentifier>{d3d170b6-8042-439e-8a21-8e16161d0a04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter 2\Past Exam Questions">
+      <UniqueIdentifier>{c5a16731-6e3f-4f17-a914-37cd4b1ede76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Chapter 8">
+      <UniqueIdentifier>{f901e53c-ecb9-4a1c-a54e-d7181eda5bde}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Exceptions.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Util.hpp">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 1\CyclicMove.hpp">
+      <Filter>Chapter 1</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 2\List.hpp">
+      <Filter>Chapter 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 2\MergeSortedList.hpp">
+      <Filter>Chapter 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 2\ArrayList.hpp">
+      <Filter>Chapter 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 2\BenchmarkDivide.hpp">
+      <Filter>Chapter 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 2\SortedListDifference.hpp">
+      <Filter>Chapter 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 3\Calculator.hpp">
+      <Filter>Chapter 3</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 3\LinkedStack.hpp">
+      <Filter>Chapter 3</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 4\KMP.hpp">
+      <Filter>Chapter 4</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 3\CyclicQueue.hpp">
+      <Filter>Chapter 3</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 3\Permutation.hpp">
+      <Filter>Chapter 3</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 4\DelChar.hpp">
+      <Filter>Chapter 4</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 5\OrthoList.hpp">
+      <Filter>Chapter 5</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 6\BiTree.hpp">
+      <Filter>Chapter 6</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 6\TBTree.hpp">
+      <Filter>Chapter 6</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 7\Graph.hpp">
+      <Filter>Chapter 7</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 2\LNode.hpp">
+      <Filter>Chapter 2</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 2\Past Exam Questions\LastButK.hpp">
+      <Filter>Chapter 2\Past Exam Questions</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 2\Past Exam Questions\MasterElem.hpp">
+      <Filter>Chapter 2\Past Exam Questions</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 5\TransposeTrimat.hpp">
+      <Filter>Chapter 5</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 6\UnionFindSet.hpp">
+      <Filter>Chapter 6</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 7\DirectedGraph.hpp">
+      <Filter>Chapter 7</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 7\UndirectedGraph.hpp">
+      <Filter>Chapter 7</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 8\Sort.hpp">
+      <Filter>Chapter 8</Filter>
+    </ClInclude>
+    <ClInclude Include="Chapter 8\MaxHeap.hpp">
+      <Filter>Chapter 8</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Chapter 2\ArrayList.cpp">
+      <Filter>Chapter 2</Filter>
+    </ClCompile>
+    <ClCompile Include="Main.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 6\BiTree.cpp">
+      <Filter>Chapter 6</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 6\TBTree.cpp">
+      <Filter>Chapter 6</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 7\Graph.cpp">
+      <Filter>Chapter 7</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 5\TransposeTrimat.cpp">
+      <Filter>Chapter 5</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 6\UnionFindSet.cpp">
+      <Filter>Chapter 6</Filter>
+    </ClCompile>
+    <ClCompile Include="Util.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 7\DirectedGraph.cpp">
+      <Filter>Chapter 7</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 7\UndirectedGraph.cpp">
+      <Filter>Chapter 7</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 8\Sort.cpp">
+      <Filter>Chapter 8</Filter>
+    </ClCompile>
+    <ClCompile Include="Chapter 8\MaxHeap.cpp">
+      <Filter>Chapter 8</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
