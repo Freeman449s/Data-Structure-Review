@@ -25,8 +25,6 @@
     <ClInclude Include="Chapter 2\List.hpp" />
     <ClInclude Include="Chapter 2\LNode.hpp" />
     <ClInclude Include="Chapter 2\MergeSortedList.hpp" />
-    <ClInclude Include="Chapter 2\Past Exam Questions\LastButK.hpp" />
-    <ClInclude Include="Chapter 2\Past Exam Questions\MasterElem.hpp" />
     <ClInclude Include="Chapter 2\SortedListDifference.hpp" />
     <ClInclude Include="Chapter 3\Calculator.hpp" />
     <ClInclude Include="Chapter 3\CyclicQueue.hpp" />
@@ -44,6 +42,8 @@
     <ClInclude Include="Chapter 7\UndirectedGraph.hpp" />
     <ClInclude Include="Chapter 8\MaxHeap.hpp" />
     <ClInclude Include="Chapter 8\Sort.hpp" />
+    <ClInclude Include="Exams\LastButK_Exam2009.hpp" />
+    <ClInclude Include="Exams\MasterElem_Exam2013.hpp" />
     <ClInclude Include="Exceptions.hpp" />
     <ClInclude Include="Util.hpp" />
   </ItemGroup>

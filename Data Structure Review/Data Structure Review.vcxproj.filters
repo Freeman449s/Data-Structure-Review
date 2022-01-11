@@ -34,11 +34,11 @@
     <Filter Include="Chapter 7">
       <UniqueIdentifier>{d3d170b6-8042-439e-8a21-8e16161d0a04}</UniqueIdentifier>
     </Filter>
-    <Filter Include="Chapter 2\Past Exam Questions">
-      <UniqueIdentifier>{c5a16731-6e3f-4f17-a914-37cd4b1ede76}</UniqueIdentifier>
-    </Filter>
     <Filter Include="Chapter 8">
       <UniqueIdentifier>{f901e53c-ecb9-4a1c-a54e-d7181eda5bde}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Exams">
+      <UniqueIdentifier>{50b3cced-9227-443c-a972-d2c499ecc6e8}</UniqueIdentifier>
     </Filter>
   </ItemGroup>
   <ItemGroup>
@@ -99,12 +99,6 @@
     <ClInclude Include="Chapter 2\LNode.hpp">
       <Filter>Chapter 2</Filter>
     </ClInclude>
-    <ClInclude Include="Chapter 2\Past Exam Questions\LastButK.hpp">
-      <Filter>Chapter 2\Past Exam Questions</Filter>
-    </ClInclude>
-    <ClInclude Include="Chapter 2\Past Exam Questions\MasterElem.hpp">
-      <Filter>Chapter 2\Past Exam Questions</Filter>
-    </ClInclude>
     <ClInclude Include="Chapter 5\TransposeTrimat.hpp">
       <Filter>Chapter 5</Filter>
     </ClInclude>
@@ -122,6 +116,12 @@
     </ClInclude>
     <ClInclude Include="Chapter 8\MaxHeap.hpp">
       <Filter>Chapter 8</Filter>
+    </ClInclude>
+    <ClInclude Include="Exams\LastButK_Exam2009.hpp">
+      <Filter>Exams</Filter>
+    </ClInclude>
+    <ClInclude Include="Exams\MasterElem_Exam2013.hpp">
+      <Filter>Exams</Filter>
     </ClInclude>
   </ItemGroup>
   <ItemGroup>

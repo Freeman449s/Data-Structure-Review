@@ -6,7 +6,7 @@
 #define DATA_STRUCTURE_REVIEW_LAST_BUT_K_HPP
 
 #include <iostream>
-#include "../LNode.hpp"
+#include "../Chapter 2/LNode.hpp"
 
 namespace Chapter2 {
     /**
